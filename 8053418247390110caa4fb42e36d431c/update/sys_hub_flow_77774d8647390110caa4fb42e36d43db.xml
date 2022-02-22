@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Will be delted</description>
+        <internal_name>test</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Test</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-22 05:53:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>77774d8647390110caa4fb42e36d43db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_674270_wish_list">8053418247390110caa4fb42e36d431c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">8053418247390110caa4fb42e36d431c</sys_scope>
+        <sys_update_name>sys_hub_flow_77774d8647390110caa4fb42e36d43db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-22 05:53:10</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=77774d8647390110caa4fb42e36d43db"/>
+    <sys_variable_value action="delete_multiple" query="document_key=77774d8647390110caa4fb42e36d43db"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=77774d8647390110caa4fb42e36d43db^sys_idNOT INbf7745c647390110caa4fb42e36d438a"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>77774d8647390110caa4fb42e36d43db</id>
+        <name>Test</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-22 05:53:10</sys_created_on>
+        <sys_id>bf7745c647390110caa4fb42e36d438a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-22 05:53:10</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
